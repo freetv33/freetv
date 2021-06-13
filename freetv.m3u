@@ -1,0 +1,2497 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",OPCióN tv
+https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title=".RD",Teleantillas (RD
+http://51.81.93.239:8084/hls/tantillas.m3u8
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",imagen universal                                                                                                                                                                                 https://cloudflare.streamgato.us/live/agenda56tvlive.m3u8                                                              
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https://www.claro.com.do/portal/do/gc/canales/1615811675713-Imagen.png" group-title=".RD",4 (RD)                      
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+  
+
+
+                                                             
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580144593977-Imagen.png" group-title=".RD",Telemicro (RD)
+http://51.81.93.29:8084/hls/tmicro.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://agenda56.com/wp-content/uploads/2020/01/LOGO-ORIGINAL.png" group-title=".RD", AGENDA 56tv 
+https://cloudflare.streamgato.us:3436/live/agenda56tvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-usJGZAFuGNc/WtVPVwFh5VI/AAAAAAAAeSQ/PQCO8fpsyL4dXNNrgdlv_67h-KLDDZvgwCPcBGAYYCw/s320/Antena7.png" group-title=".RD",Antena7(RD)
+http://51.81.93.239:8084/hls/alatina.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Microvision (RD)
+https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w414070953.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png" group-title=".RD",Color Vision (RD)                                                                
+http://51.81.93.239:8084/hls/colorABR.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title=".RD",Telenord (sfm)
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png" group-title=".RD",Telesistema (RD)
+http://51.81.93.29:8084/hls/tsistemas.m3u8
+
+
+
+ #EXTINF:-1 tvg-logo="https://www.tenarenses.com/wp-content/uploads/2017/10/12345-300x96.png" group-title=". RD", Tenarenses tv
+https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
+
+
+
+                                                                   
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-SlOZUGyCaMM/Xqim58ynrTI/AAAAAAAAulg/8h4X2KXO9dQg1AmRU6JQ7uOE8jYLQ3pcgCLcBGAsYHQ/s200/Telecentro.png" group-title=".RD",Telecentro (RD)
+http://51.81.93.29:8084/hls/telecentro.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", 14 tv
+https://panel.streamingtv-mediacp.online:1936/8170/8170/playlist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/digital-15.png" group-title=".RD", Digital15
+http://51.81.93.29:8084/hls/d15.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",24/7 el chavo
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.skydominicana.com/Code/templates/images/channels/14sky-logo-DistritoComedia.jpg" group-title=".comedias",DiSTRiTO COMEDiAS
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/27565
+   
+                                     
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", COMEDI CENTER
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/27581
+
+
+
+
+
+
+
+                
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OyGda7x4ma0/WskGwhu7INI/AAAAAAAAdTg/m3iGx8lteugAxvbEtiFnQm7gqZoyLeAJQCLcBGAs/s200/Cinevision.jpg" group-title=".RD",Cinevision19 (RD)
+https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
+                                                                    
+
+
+
+
+
+
+  
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1579114233316-Imagen.png" group-title=". entretenimientos",Caracol 
+http://comerciales.tel:8080/JuanCampeny/juan2109/19936.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/Antena21.png" group-title=".RD",Antena21                                                                 
+http://51.81.93.239:8084/hls/a21.m3u8
+
+
+                                                                                                     
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-MgFDf8g1D5o/XbyaryCHJmI/AAAAAAAAoms/bwC5XaZ9oZ8M7Gjgm_s657LY9T5MVRlMwCLcBGAsYHQ/s200/tvs%252C%2Bcanal22%252C%2Belcanaldetodos.jpg" group-title=".RD",TVS (RD)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TELEFUTURO
+https://ss8.domint.net:3118/tf_str/futu/chunklist_w1986453221.m3u8
+                                                                    
+
+                                                                        
+#EXTINF:-1 tvg-logo="   https://www.hilandofinotv.com/wp-content/uploads/2021/01/cropped-Imagen1..png " group-title=".RD", Hilando FiNO                                                                                                                                
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png"mki group-title=".RD",Canal 25 (RD)
+https://ss5.domint.net:3050/c25_str/canal25/chunklist_w1879099074.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FXYny6HB4uc/Xqtj1BkUEvI/AAAAAAAAupc/LFJ9dr9754cOv2eH4tsVTtuawC8YMRdngCLcBGAsYHQ/s200/LunaTV.png" group-title=".RD",LUNA (tv)
+https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w945815010.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png" group-title=".RD",RNN (RD)
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w2078607570.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/SantoDomingoTV.png" group-title=".RD",TELECANAL 28
+https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1, tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/Teleuniverso.png " group-title=".RD",Teleuniverso (RD)
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: tvg-logo=" https://www.altice.com.do/sites/default/files/styles/teaser_device/public/assets/channel/Univision.png?itok=1-Nsx6zi" group-title=".entretenimientos", UNiViSiON
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/726
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title=".RD",Telenord  (sfm)
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/telenord8.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-H6WpFuwnBw8/Xb8tpN3x27I/AAAAAAAAowE/i8xCRlptBkEGIn9nxcfdajE2ieOQ07GGQCLcBGAsYHQ/s200/Telenord.jpg" group-title=".RD",Telenord 12 (sfm)
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
+
+
+
+
+#EXTINF:-1,tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title=".RD",HM (RD) 
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+
+
+
+
+#EXTINF:-1, NITIDA tv
+https://rctvhdstream.com:8081/nitidatvlive/index.m3u8
+
+
+                               
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1595246920028-Imagen.png" group-title=" ,SItv 
+http://51.81.93.29:8084/hls/sitv.m3u8
+
+ 
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".noticias",ZUU tv
+https://vdo2.streamgato.us:3337/live/zuutvlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title=".noticias",CDN37  (RD)                                                                                                                                              
+http://51.81.93.239:8084/hls/cdn.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".noticias", CNN
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86808
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/125px-Russia-today-logo.svg.png" group-title=".noticias", RT noticias
+https://rt-esp-gd.secure2.footprint.net:443//1102_2500Kb.m3u8                                             
+                                                                                                                                                                         
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BrrKqydZcuY/Xqjez-2RyqI/AAAAAAAAul8/i1PtUDlYr6gkCFKk78Db73nl66QO2EHLwCLcBGAsYHQ/s200/Coral39.jpeg" group-title=".RD",Coral39 (RD)
+http://190.122.96.188:8888/http/005                                                
+                                                                     
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/Telesur.png" group-title=".noticias ,TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net:443/mbliveMain/hd/chunklist.m3u8
+                                                                                                                                                                                                                     
+                                                                                                                                                                                                           
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1579114041034-Imagen.png" group-title=".noticias ,DW                                            
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+
+
+
+                                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".niño", JUNIOR kid
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=9fe52cf3-7061-4a89-98be-86c5f48d961a&deviceVersion=89.0&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&deviceType=web&deviceMake=Firefox&sid=be463dc3-ca48-11eb-9d16-0242ac110002&advertisingId=&deviceLat=18.4486&deviceLon=-69.2998&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+
+
+
+
+ #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", pakapaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w556051483.m3u8
+                                
+                                                                                                                 
+ #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CHINOLA kid
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
+     
+
+                                                                     #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  Chicos ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+                                                                     #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", PEQUE radios
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Boomerang
+http://96.30.193.226:81/hls/boomerang.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Magic KID
+https://moonbug-rokuus.amagi.tv/playlist720-p.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  DiOS tv kids
+https://emisoras.hn:8081/diostevekids/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".niños",PLANETAS kids
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".niños", KiDS                                           https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=18.4486&deviceLon=-69.2998&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=5739e61b-c8d5-11eb-8558-0242ac110002&sid=5739e61b-c8d5-11eb-8558-0242ac110002&userId=                                                         
+
+
+
+                                                
+
+                                                                     
+
+
+#EXTINF:-0, reyno kid
+#EXTGRP:  niño
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=6173b252-1a9c-11eb-aa98-0242ac110002&userId=&serverSideAds=true
+
+
+
+
+
+
+
+
+
+
+
+  #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", MUÑEQUITOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.9.1-e0b37ef76504d23c6bdc8157813d13333dfa33a3&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=6173b252-1a9c-11eb-aa98-0242ac110002&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",NEWORD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+      
+
+
+                                                   
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",PATiOS kids
+https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".entretenimientos", LA ESTRELLAS
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/27553
+                                                                  
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/Telemundo.png" group-title=".RD",TELEMUNDO    
+
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CoAFkJqKFB2LqfSCCT96yBzbrpwWdAmLd3rMwD8nAI9ZVrAMLVLMVRYs3MpMrnsJhgQBuzzKLf0E8vdrViFY9cLizT16rj_0Yj9yE9djaWDTTUan75ofBW8MGp9nLSgLULq7DGsHbJwybgaOKtd3JmZlkCY_9g5TNyHwntmeeQ1FQWhY_8XownJrObmXOTjzBIQXGH8pqXHfjt_JwCCltNmAn_F6pw4X0_3nUcIHUic3Tx02fsnbGyDSFZST1oW-oS0V0S6z18qzEHpg0Mxyh7XRl1woSQ3_CM61oE9sB0Jl5KhfsRyz24h7GTJelKlp5pO_i_2v1urm27Hvtid5YX0k0h1_ilrQPKA1fMn08kLmc34fapiJiW9znzxzOowOt3ZxYWc2uim101mVPf1DIyOEAp0dMiXpj5bnJc52eQhcA0dYD5Jdwg-kza8uSF1zpTR4IFb5dhBNI5fqBV6dJ4YS2YVtsSTPC9gN3v8tfhuXWsUDg1BRmkds_w1FPfN5UUNjmnk16nPNi0m5bk1iDAxPFY80X5PrDvPxeS9I-SmSxv56QXtl3ee0JDBFOOfRjSNZHxuFHQGDFz9YnZz7j2ShePTjNEpHFlKWwgOBfu-_J9Nm4zW6kBoSTc4xci_iM409x4L99XGX4z68Y6LZqDGa7VoAjJjZnNFwztRU_0XHesLZJtt9wcl-yhsJZv5Nily-Rxiz604S4P_Ix3XDB3n04Oc-qAZYtRqsbGSvaZqqip5k9NmvIK7wn7cue0WikzpfSd7PgHzYxSSwegwvbaTJmI7e9iefcKvmjefKf83eyL0An4xWPKgeK5tVeNYwN_orUl6kMU-W8pTHWdQJHDhZKBIQyUZkbiOpqesPC1NYJ2QVXRoMfbIpDQmg2EOVkDQ-.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1579875938499-Imagen.png" group-title=".RD",TELEMUNDO Internacional
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86793
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".entretenimientos", UNIMAS
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/5913
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".entretenimientos", GALAVISIÓN
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/5819
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".entretenimientos", UNICABLE
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/27577
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".entretenimientos",CARACOL play
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", PERU tv
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.pa/portal/pa/gc/canales/1502984754295-Imagen.png" group-title=".RD", TELEMETRO 
+http://bit.ly/2NoOhh4
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1554210145474-Imagen.png" group-title=" ,V+ plus
+http://190.122.96.187:8888/http/006
+
+
+
+               
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", NOVELAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7503&deviceDNT=0&deviceModel=0
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/zee_mundo.png" group-title=" ,ZEEMUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8          
+                                                                         
+                                                             
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",V ViCiON
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+     
+
+                                                            
+# EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TELEVEN
+http://178.162.128.44:8086/televen/televenweb.m3u8           
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580150683128-Imagen.png" group-title=" ,SUPER 55                                                                       #EXTGRP:  sfm 
+https://ss8.domint.net:3128/stv_str/tv55/chunklist.m3u8?_=1
+
+
+
+                                                                                                                                                             
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-CN-Z7-h-83U/XqujNtZO9VI/AAAAAAAAus0/68SS1rBSL8AZfLNezAkjTuqvolcwAzJvQCLcBGAsYHQ/s200/somostv56.jpg" group-title=".RD",Somos TV 56(RD)
+http://ss2.domint.net:2216/stv_str/somostv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TV shows
+https://5790d294af2dc.streamlock.net:443/8102/8102/playlist.m3u8
+
+
+
+#EXTINF:-1, LA Z
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
+
+#EXTINF:-1, MI tv
+
+https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w1252310758.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CAMU tv
+http://camutv.ddns.net:8080/hls/camutv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_c3Wai2yuIY/Xl-e-HIk2VI/AAAAAAAAr5w/-vzqG9PJsg0DPrpR299YXH3m2u2BsQRvgCLcBGAsYHQ/s200/Boreal%2BTelevision.jpg" group-title=".RD",Boreal (RD)
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+   
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580148283718-Imagen.png" group-title=" ,TRA 
+https://ss4.domint.net:3008/tra_str/canal45/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title=" ,WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CANA tv
+https://www.hostokilive.com:19360/8002/8002.m3u8?DVR
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",GCM tv
+https://vdo2.streamgato.us:3491/live/gcmtvtelevisionlive.m3u8?DVR
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", SAN JUAN tv https://5d79ae45bc63b.streamlock.net/8256/8256/playlist.m3u8?DVR
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", WEB tv
+https://cdnhd.iblups.com/hls/HE8c3qVRp4.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580151076095-Imagen.png" group-title=".RD" ,TELEcontacto                                                                      #EXTGRP:  entretenimientos
+https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", NiSiBON tv
+http://95.111.236.94:8080/hls/nisibontv.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint1492img03-10-20211615335644.jpeg" group-title=".RD" , CONTANZA tv
+https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w870086158.m3u8
+                                                              
+
+
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/10/27-300x194.jpg" group-title=" , MIA vision 
+https://cdn4.hostlagarto.com:8081/static/miavisiontv/playlist.m3u8
+                                                                      
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", VILLA tv
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", VM tv
+https://cm.hostlagarto.com:4445/ricotv/ricotv.myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",DIMELO tv
+https://2-fss-2.themediacdn.com/pl_118/204248-1814766-1/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", AKI tv
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/07/vegavision2019-300x194.jpg" group-title=".RD",canal 18
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8                                                                                                                                                        
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", VISION 3
+https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8?_=1
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title=".RD",PH 
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+                                                              
+     
+
+                                   
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",DOMINIO tv
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",puntacanatv 
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8?DVR                                               
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",BUENA tv https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR                                                                    
+
+
+
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/Logo-ecovision-grande-300x194.png" group-title=" ,ECO tv  
+https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
+                                                                            
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",SABANETA tv
+https://ss6.domint.net:3036/spm_str/sabanetatv/chunklist_w1555575632.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint887img09-28-20191569714652.jpeg" group-title=" , TELESUR
+https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1508370699.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.gitelevision.com/imgs/logo.png" group-title=" , GI television
+https://video.misistemareseller.com/gitelevision/gitelevision/chunklist_w537414443.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TELE MONTAÑAS
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", POLICIA N tv
+https://cloudflare.streamgato.us:3056/stream/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title=" ,TELEMILENIO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", PUNTO tv
+https://ss5.domint.net:3042/ptv_str/puntotv/chunklist_w31154333.m3u8
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",GLOBAL vision                                            https://stream.visionglobaltv.net:1936/visionglobal/mp4:visionglobal_720p/chunklist_w1622435559.m3u8             
+  
+
+
+
+
+
+
+                                                                      
+
+
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg" group-title=".RD",MegaVision (RD)
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w722835363.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/LaVozDelTropico.png" group-title=" ,TROPICO de tv
+https://ss8.domint.net:3084/vttv_str/tropicotv/chunklist_w1244533143.m3u8            
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",RAICE
+https://ss3.domint.net:3106/raiz_str/raiztv/chunklist_w1136777913.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title=" ,READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w1488193468.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cableondaoriental.com/wp-content/uploads/2020/12/logo-cable-onda-oriental.svg" group-title=" , ONDA
+https://ss6.domint.net:3052/otv_str/tv10/chunklist_w1060760347.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://zolfm.com/images/logo.png" group-title=" ,ZOL tv
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+
+                                                                 
+
+ 
+#EXTINF:-1 tvg-logo="https://maimontv.com/images/maimon_logo_clear_lg.png" group-title=" ,MAIMON tv
+https://ss3.domint.net:3138/mtv_str/maimon/chunklist.m3u8?_=16
+
+
+
+
+
+
+                                                                  
+
+
+#EXTINF:-1 tvg-logo="https://bellavision8.com/wp-content/uploads/2020/05/BVlogo.png" group-title=" ,BELLA vision
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="group-title=" ,ESTE tv
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/07/valle-logo.png" group-title=" ,VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+        
+                                                           
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",GH
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/12/tv-recuerdos-56-300x194.jpg" group-title=" ,tv RECUERDOS
+https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2021/02/22222222222222222-300x194.jpg"   teleoriental" group-title=" ,Tele ORIENTAL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title=" ,BONAO tv
+https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1004628531.m3u8
+
+                       
+#EXTINF:-1 tvg-logo="https://elpuerto.com.do//uploads/2015/08/LOGO-EL-PUERTO-TV.jpg" group-title=" ,EL PUERTO tv
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/chunklist.m3u8?_=1                                                                                                                                              
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", COTUBANAMA                                                          
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TC                                                                  
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TV PLATA
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w379075379.m3u8
+                                                                   
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MUSA vision                                                              https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://5.180.27.73:5016/images/brand/pgblocks-logo-nostrap_1.png" group-title=" ,NEXXO tv                                                                      
+https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8
+
+
+
+
+                                                               
+
+  
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Nagua tv
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8?DVR
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",SWAGGERTV
+https://cm.hostlagarto.com:4445/swaggertv/swaggertv.myStream/playlist.m3u8?DVR
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580150946914-Imagen.png" group-title=" ,TELENOVISA
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist.m3u8?_=12
+
+                                
+#EXTINF:-1 la tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", SAJOMA tv
+https://vdo2.streamgato.us:3438/live/sajomatvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://entelevision.com/wp-content/themes/entelevision/imagenes/logo-principal.png" group-title=" ,EN television
+https://panel.streamingtv-mediacp.online:1936/8162/8162/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Tele santo domingo 
+https://vdo1.streamgato.us:3550/live/telesantodomingolive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png" group-title=" ,CALETA tv
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1607516813765-Imagen.png" group-title=" ,MI TV
+https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w1795854564.m3u8
+
+
+
+
+
+#EXTINF:-0, CITRICO tv                                                                https://vdo1.streamgato.us:3060/live/nptvlive.m3u8                                                                
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580149845803-Imagen.png" group-title=" ,ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2021/02/22222222222-300x194.jpg" group-title=" ,GUACARAS tv
+https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title=" ,SAN iSIDRO
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CÁSCARA tv
+https://ss5.domint.net:3036/ctv_str/cascaratv/chunklist_w2130478203.m3u8
+
+
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ND tv
+https://5fa5de1a545ae.streamlock.net:443/lanaciondominicanaTV/lanaciondominicanaTV/playlist.m3u8
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", VG tv
+https://stream.visionglobaltv.net:1936/visionglobal/mp4:visionglobal_1080p/playlist.m3u8
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CANANGA tv
+https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", LA MiA tv
+https://ss8.domint.net:3108/mia_str/lamiatv/chunklist_w2025663703.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2021/02/TELESENAL-DOMINICANA-12-300x194.jpg" group-title=" ,TSD
+https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MAElgS7TLhA/X4j0ckFCPgI/AAAAAAAAAA0/5DTTDCWKCQA8tkdh-yd4K6vxW8mTC0P6ACK4BGAYYCw/s1230/Banner%2BCabecera%2BVision%2Bndv-01.png" group-title=" ,visionndvlive
+https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="http://teleradionorte.com//wp-content/uploads/2018/08/logopequert.png" group-title=" ,TELERADIOnorte
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.globaltv.com/wp-content/themes/globaltv-child/assets/icons/sitelogo.svg" group-title=" ,GLOBAL tv
+https://ss6.domint.net:3016/gtv_str/globalhd/chunklist_w2104121714.m3u8
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",
+https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CROM tv
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ALEGRÉ tv
+https://cdn4.hostlagarto.com:8081/static/alegretv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ROCAvision
+https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580151163692-Imagen.png" group-title=" ,GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1815317915.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", DAN tv
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/playlist.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", NPTV live
+https://vdo1.streamgato.us:3060/live/nptvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580151138714-Imagen.png" group-title=" ,DIGITAL VISION
+https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w2119113711.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", LATINA tv
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w332159339.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580150056697-Imagen.png" group-title=" ,AME 47 
+https://ss6.domint.net:3028/ame_str/amecanal47/chunklist_w2108518018.m3u8
+
+
+
+
+
+ #EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", La Mega tv
+https://ss8.domint.net:3114/lme_str/lamegatv/chunklist_w429325661.m3u8
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TNI 51
+ https://ss8.domint.net:3126/tni_str/tni51/chunklist_w68806392.m3u8
+                                                                       
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Tele cibao
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/chunks.m3u8
+
+                                                                
+                                                                    
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",DELTA tv
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/playlist.m3u8
+
+
+
+
+
+
+                                                                
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580151036336-Imagen.png" group-title=" ,TVO
+https://rctvhdstream.com:8081/tvoromanalive/index.m3u8
+
+
+
+
+                                                                   
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",,  FUEGO tv
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",, Telecanal 12
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+                                               
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MONTECRISTI tv
+https://cloudflare.streamgato.us:3851/live/montecristidigitallive.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CTN                 
+https://59ef525c24caa.streamlock.net:443/ctn/ctn/chunklist_w1165790731.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580150766907-Imagen.png" group-title=" ,EXTREMOS
+https://ss3.domint.net:3118/xtr_str/xtremo/playlist.m3u8
+
+
+
+
+
+
+
+
+                                                              
+                                                                   
+
+                                                            
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",OXtv
+https://cdn4.hostlagarto.com:8081/static/oxtv36/playlist.m3u8
+                                                                      
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CANAL 6
+https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
+
+
+                           
+
+ 
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png"group-title=".RD", TV                                          
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+
+
+
+
+
+ 
+                                                                                       
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  REPORTERO tv                                                          
+https://cdn4.hostlagarto.com:8081/static/Reporterotv/playlist.m3u8
+
+
+                                                               
+
+
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1580149526943-Imagen.png" group-title=" ,BAJO TECHO
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+                                                                      
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TV Vision 
+https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
+
+
+                                                                   
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", APRENDE tv
+https://tastemadees16intl-brightcove.amagi.tv:443/playlist1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", El GURME
+https://amc-elgoourmet-1.plex.wurl.com:443/manifest/playlist_1920x1080_4200k.m3u8
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENCIÓN",TLC (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8080/R3n4t0dtvcambio/N5y8cUke59/29669
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENCIÓN",TRU TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8080/R3n4t0dtvcambio/N5y8cUke59/5414
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Discovery HyH
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86741
+
+
+#EXTINF:-0,  pluto tv naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f3696cfb-1333-11eb-aa17-0242ac110002&userId=&serverSideAds=true
+                                                              
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",
+DC animal
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=da10e1ae-1334-11eb-aa17-0242ac110002&userId=&serverSideAds=true
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",G
+https://amc-maschic-1.plex.wurl.com:443/manifest/playlist_1920x1080_4200k.m3u8
+        
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",HOGAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=b90b7bca-be2f-436b-967f-9e11a130a619&deviceLat=19.1833&deviceLon=-69.8500&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a2fc5c1c-27b5-11eb-92c0-0242ac110002&userId=&serverSideAds=true
+
+
+                                                                           
+
+
+
+
+#EXTINF:-1 ,NATGEO Wild
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86784
+
+
+#EXTINF:-1, Discovery ID
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86739
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png"group-title=".RD",  Discovery h&h
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86742
+
+                                      
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/500/canales/color/h2.jpg"group-title=".RD", HISTORY 2
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/97416
+
+
+
+ 
+
+
+
+
+
+
+                                                             
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  NATURE
+https://bamus-spa-roku.amagi.tv:443//playlist1080-p.m3u8
+
+
+                                                                    
+                                                                
+
+
+
+
+
+                                                                
+
+
+
+                                                                   
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MAS CHiC
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/7928
+                                                                 
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MÁSTER CHEF
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=ec3c015e-a907-11eb-9273-0242ac110002&sid=ec3c015e-a907-11eb-9273-0242ac110002&userId=
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",DOCUMENTAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=8aa68330-a908-11eb-ac84-0242ac110002&sid=8aa68330-a908-11eb-ac84-0242ac110002&userId=
+
+
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",FOOD nework
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/35499
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FM1
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FM 3
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/chunklist_w19964725.m3u8?_=4
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine ",FM 1
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1356756860.m3u8?_=26
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine",CANAL CINE
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/1200.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",GEN tv
+https://videohd.live:19360/8010/8010.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Amc
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1000
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Cine free
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41CEJKZpPwL.jpg" group-title=".RD",Fxm
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1058
+
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/UniversalTV.png" group-title=".RD" ,UNiVERSAL 
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1080
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41CEJKZpPwL.jpg" group-title=".RD", ESTUDIO UNIVERSAL
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86776
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/cnt/grilla_canales/img/logos/ParamountChannel.png" group-title=".RD",  PARAMOUNT
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1258
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CiNE REAL
+https://cinereal-plex.amagi.tv:443/CineReal/master_5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TU CiNE
+https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TOP CiNE
+https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CHiQUiLiNES
+https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", JUNTOS tv
+https://olympusamagi.pc.cdn.bitgravity.com:443/Juntos-roku/master_6.m3u8
+
+
+
+#EXTINF:-0,tvg-logo="https://www.skydominicana.com/Code/templates/images/channels/41sky-logo-AXN.jpg" group-title=".RD", AXN
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1232
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",A&E
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1585
+  
+
+
+                                                               
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",D peliculas
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1042
+                                                                     
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", ORBIT tv
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1562424318.m3u8
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", R PELIC
+https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
+
+                                                                       
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", Flix tubi
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+
+
+                                                                                                                                                                                                                                       
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", MY TIME
+https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
+                                                          
+
+
+ 
+
+                                                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine", ( WMS )   
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/chunks.m3u8
+
+             
+
+                                                                   
+
+
+
+
+#EXTINF:-1, tvg-logo="http://www.tvconexion.com/img/cinemax.png" group-title="PeliculasTV",Cine máx                                                        
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1216
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".cine",Starz
+http://comerciales.tel:8080/JuanCampeny/juan2109/2169.ts
+
+                                                                      
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , CINECANAL
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1233
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , CINEMA DINAMITA
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1265
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , CINEMAX
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1234
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , DE PELICULA PLUS
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1042
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , EUROPA EUROPA
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1266
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE ,STAR
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1239
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE ,STAR LIFE
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1607
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR ACTION SD
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1236
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STARZ CINEMA
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1049
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR CLASSIC SD
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1242
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR COMEDY SD
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1243
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR FUN SD
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1244
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR HITS SD
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1245
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR SERIES
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1246
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , FX
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1248
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , FXM
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1249
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , GOLDEN
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1250
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , GOLDEN EDGE
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1251
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , HBO
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1252
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , HBO 2
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1253
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , HBO FAMILY
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1255
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , HBO PLUS
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1256
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , HBO SIGNATURE
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1212
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , HBO MUNDI
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1257
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , PARAMOUNT CHANNEL
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1258
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , SONY
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1259
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , STAR TVE
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/2513
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , TBS
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1261
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , TNT SERIES
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1032
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD"CINE , CINE LATINO
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/49337
+
+
+
+#EXTINF-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CINE AiR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?WebM3UCL
+
+ 
+
+
+
+
+
+
+
+
+
+                                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="PeliculasTV",Space                                                         
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/1260
+
+                                                                  
+
+
+#EXTINF:-1, TNT                               
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/1263
+
+
+
+
+
+                                                                 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.skydominicana.com/Code/templates/images/channels/38sky-logo-TCM.jpg" group-title=".RD", TCM
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1262
+
+
+
+
+
+
+
+#EXTINF:-0, Cine club
+https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-0, Estelar cine
+#EXTGRP: cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0f8e&deviceDNT=0&deviceModel=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-0, RAKUTEN
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/3000.m3u8
+
+
+
+
+ 
+
+
+
+#EXTINF:-0, Cine DRAMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0af9c627-a909-11eb-8ea0-0242ac110002&sid=0af9c627-a909-11eb-8ea0-0242ac110002&userId=
+
+
+#EXTINF:-0, MOVIE SUSPENSO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=e65ba567-a904-11eb-8236-0242ac110002&sid=e65ba567-a904-11eb-8236-0242ac110002&userId=
+
+
+
+
+
+
+#EXTINF:-0, Cine STELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=1f573f5b-a906-11eb-881a-0242ac110002&sid=1f573f5b-a906-11eb-881a-0242ac110002&userId=
+
+
+
+#EXTINF:-0,  Cine COMEDiA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=eac76929-a906-11eb-b429-0242ac110002&sid=eac76929-a906-11eb-b429-0242ac110002&userId=
+
+
+
+
+
+
+#EXTINF:-0,  Cine ACCIÓN 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=7f8dd34a-a907-11eb-9c6e-0242ac110002&sid=7f8dd34a-a907-11eb-9c6e-0242ac110002&userId=
+
+
+
+
+#EXTINF:-0, Cine TERROR
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b8031783-a909-11eb-b521-0242ac110002&sid=b8031783-a909-11eb-b521-0242ac110002&userId=
+
+
+
+
+
+#EXTINF:-0, Cine CLASiCOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=d7e38534-a90a-11eb-9e54-0242ac110002&sid=d7e38534-a90a-11eb-9e54-0242ac110002&userId=
+
+
+
+#EXTINF-0 Cine FAMiLiAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", A3S
+http://tv.iptv5latino.cl:8080/R3n4t0dtvcambio/N5y8cUke59/3671
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  TNT series
+http://tv.iptv5latino.cl:8080/R3n4t0dtvcambio/N5y8cUke59/1761
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", STARZ series
+http://tv.iptv5latino.cl:8080/R3n4t0dtvcambio/N5y8cUke59/1737
+
+
+
+
+#EXTINF:-0, SERIES 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=723b19b8-a90b-11eb-b4a3-0242ac110002&sid=723b19b8-a90b-11eb-b4a3-0242ac110002&userId=
+
+
+#EXTINF:-0, Series RETRO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=406eef8f-e48a-4f52-8a7c-0a40786c36a9&clientModelNumber=na&deviceDNT=false&deviceId=406eef8f-e48a-4f52-8a7c-0a40786c36a9&deviceLat=19.3017&deviceLon=-70.2526&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=737828ef-a90c-11eb-91cc-0242ac110002&sid=737828ef-a90c-11eb-91cc-0242ac110002&userId=
+
+
+
+
+
+
+#EXTINF:-0, Colindo sport
+https://panel.streamingtv-mediacp.online:1936/8168/8168/chunklist_w966599854.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FiG
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", boxin
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FiTE
+https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", MMA
+https://alchimie-mmatv-3-es.samsung.wurl.com:443/manifest/3000.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-o3sd4f9g9tU/XlnAiCBxI6I/AAAAAAAArvk/fs3f-hvwbJ0g5XTFHv6KEa-aGytjjuY9ACLcBGAsYHQ/s1600/stream tv.png" group-title=".RD", VIP ( sport )   
+http://190.122.104.212:8888/http/006
+
+
+
+
+#EXTINF:-0,olipic
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+
+
+#EXTINF:-0,sky 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-0,sky 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+
+                                                            
+
+
+
+
+
+                                                                      
+
+
+
+                                                            
+
+
+                                                                  
+                               
+
+                                                                    
+                                                                  
+
+                                                            
+                                                                      
+ 
+
+
+                                                                                                                                                                       
+
+
+
+
+
+
+#EXTINF:-1, wwf
+https://h3.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=3596748&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIxIDQ6MTI6MzcgQU0maGFzaF92YWx1ZT03emtSc2VOMW9BSEJVSjdTOEx3ZEVBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD |nbc NY
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86916
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD |Fox LA
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86917
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |ESPN
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86918
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |ESPN2
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86919
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  | Velocity HD (CA)
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86920
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |FOX SPORTS 1
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86921
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |FOX SPORTS 2
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86922
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD | Tennis Channel
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86923
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |GOLF
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86924
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |SPMAN
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86928
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  |NBC Sport
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86929
+#EXTINF:0 tvg-id="ext" group-title="USA SD",USA SD  | WE TV
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/86930
+
+
+
+
+
+
+
+#EXTINF:-0,  ESPN U  
+https://gma2.blab.email/espnu.m3u8
+                                                                    
+
+
+
+#EXTINF:-0, GOLD
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-0, EURO SPORT
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
+
+
+
+
+
+#EXTINF:-1
+tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FOX  https://e10.cdnfoxtv.me/ingestnb4s/foxdep/c.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FOX 1 https://e10.cdnfoxtv.me/ingestnb4s/fox1ar/c.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", FOX 2 https://e10.cdnfoxtv.me/ingestnb4s/fox2ar/c.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ESPN sur https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/c.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ESPN2 https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/c.m3u8
+
+
+#EXTINF:-0, auto tv
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w1162899612.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ESPN3 https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/c.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ESPN new https://e10.cdnfoxtv.me/ingestnb4s/espn_news/c.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",BT sport
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ESPN2 usa https://e10.cdnfoxtv.me/ingestnb4s/espn2_usa/c.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ESPN U
+https://gma2.blab.email/espnu.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ACCN https://e10.cdnfoxtv.me/ingestnb4s/accn/c.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",SEC https://e10.cdnfoxtv.me/ingestnb4s/sec_network/c.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", tvy https://content.uplynk.com/channel/2945e5de116e43d7aec93ce2dd096d01.m3u8
+
+
+
+
+
+ 
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Esport
+https://unbeaten-roku.amagi.tv:443/playlist1080p.m3u8 
+                                                                   
+
+
+#EXTINF:-0, Fórmula 1
+
+     https://zi4ztlo997bfokqp.ezcdn654.net:8443/hls/w1rmfs5u5vz.m3u8?s=tmbFafVKCpCQvia7opdd_A&e=1622198049                                                             
+
+
+
+#EXTINF:-0, LIVE sport
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/master.m3u8
+
+
+
+
+
+
+                                                                   #EXTINF:-0, FOX San diego
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/49339
+
+
+
+
+
+                                                                   
+
+#EXTINF:-0, FSI
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/86921
+
+
+
+
+
+#EXTINF:-0,  SPORT NET
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/71335
+
+
+#EXTINF:-0,  FOX florida
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/823
+
+                                                              
+#EXTINF:-0, WAPA 2 
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/1169
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",redbull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", AT&T
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/814
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD,SPORT
+https://pac12-roku-us.amagi.tv:443//playlistR1080p.m3u8
+                                                                     
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", MLB
+http://premiumplustv.xyz:25461/benitez9112/pFYTDvNfK4/29688
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".sport", JBSC sport
+https://n-akamai-fastly.castr.com/edge/live_ac6829406f6c11ea9f71bdf26ceebbe8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1jRaAKpoUuI/XqpGMO3ejaI/AAAAAAAAuo4/I5TunQQu4VQmHx8o7iNvGv_EmnY_R18lACLcBGAsYHQ/s400/CDN%2BDeportes.png" group-title=".RD", CDN Deportes (RD) 
+ http://51.81.93.29:8084/hls/cdnsm.m3u8 
+                                                            
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Philadelphia Phillies
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/331
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Pittsburgh Pirates
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30094#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Arizona Diamondbacks
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/305
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Atlanta Braves
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/307
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Baltimore Orioles
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30162
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Boston Red Sox
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/309
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Chicago Cubs
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/310
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Chicago White Sox
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/312
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Cincinnati Reds
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/314
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Cleveland Indians
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/316
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Colorado Rockies
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30093
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Detroit Tigers
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/318
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Houston Astros
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30091
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Kansas City Royals
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/320
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Los Angeles Angels
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/321
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Los Angeles Dodgers
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/303
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Miami Marlins
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/323
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Milwaukee Brewers
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/325
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Minnesota Twins
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/327
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | New York Mets
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30089
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | New York Yankees
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/329
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Oakland Athletics
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/330
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | San Diego Padres
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/332
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | San Francisco Giants
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/333
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Seattle Mariners
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30163
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | St. Louis Cardinals
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30090
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Tampa Bay Rays
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/334
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Texas Rangers
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/335
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Toronto Blue Jays
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30092
+#EXTINF:0 tvg-id="ext" group-title="Channels",MLB | Washington Nationals
+http://xdgo.live:8080/BHDrodriguez/WzcuAHz6dS/30161
+
+   
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",URUGUAY tv
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/1290
+                                                         
+                                                                 
+  
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",WAPA
+http://premiumplustv.xyz:8080/benitez9112/pFYTDvNfK4/49341
+                                       
+   
+
+                                 
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TC
+https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CRISTAL tv
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",FARRA TV
+http://159.203.148.226/live/farra.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MITV
+http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",PARA vision
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",RCN
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TL futuro
+http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TELECISTEMA 
+https://hls.gvstream.live:443/telesistemas/15tv.stream/chunklist_w845300616.m3u8
+                                                                      
+                                                                      #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", AZTECA                                           
+http://190.122.96.187:8888/http/002
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",PUNTO 3
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8?_=2
+
+
+                                                                 
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TURISTIK
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
+                                                                    
+                                                                                                                                                                       
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Forro tv
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8?sd=10&rebase=o
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",PEOPLE tv 
+https://peopletv-oo.akamaized.net:443//playlist720p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w276636945.m3u8
+
+    
+
+
+
+    
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  HISPAN tv
+https://live1.presstv.com/live/hispan.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TELEVIDA tv
+https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w57071542.m3u8?_=1
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", MVS
+https://content.uplynk.com/channel/46846726c7c74c7283e4ca8137f04034.m3u8
+
+
+                                                                                             
+                              
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",  C21                                        
+http://edge1.cl.grupoz.cl/canal21tv/live/chunklist_w148640593.m3u8                              
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Cdn 3
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TROPiCAL
+https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Canal i
+https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",LA PAZ
+http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ARGENTINISIMA
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TEVE 5
+http://coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Canal 2000
+http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8                                        
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", TELE DIARIOS
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
+
+
+#EXTINF, -0, H tv
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ESTRELLAS TV
+https://estrellatv-roku.amagi.tv:443//playlistR1080p.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",NEXT
+http://198.1.123.99:1935/live/myStream/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",QUATRO tv
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", STV
+http://209.126.105.158:1935/stv/web/chunklist.m3u8?_=4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", fashion
+https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",life fashion
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8?_=1619548112
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",miami
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2123492454_b2592000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",la tele
+https://edge5.vedge.infomaniak.com/livecast/latele/chunklist_w1052074037.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",BH tv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",EL54
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?_=18
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",NET tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?_=1
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", MY TV
+http://162.244.80.176:8081/abr/stream/live/livestream_240p/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", peru https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",TRT
+https://tv-trtworld.live.trt.com.tr:443/master_1080.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", PELIC 57                                  
+https://593b04c4c5670.streamlock.net:443/8148/8148/chunklist_w1520331469.m3u8?_=1
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ATN
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+
+
+
+                                 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",ANT
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", La2 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Ntv
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", 11 MX
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",JALISCO tv
+https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Presumiendo tv
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",Quiero tv
+https://quierotvlive.tk/httplive/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CTV
+https://paneltv.online:1936/8030/8030/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", CANLE max
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8?WebM3UCL
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", ZTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?WebM3UCL
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="LA1.es" group-title="Channels",La 1  | ES
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="LA2.es" group-title="Channels",La 2  | ES
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", Top latino                                                                 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tltvweb.stream/chunklist_w1467632998.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", HITS 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+                                                                                                                           
+                                                             
+
+
+
+
+                                                                                                                                                                                       
+                                                                   
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",POWER tv
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8?_=1
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD",MAKAO tv
+https://cdn4.hostlagarto.com:8081/static/Makaotv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".RD", OYE tv
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSA3OjM0OjQ1IFBNJmhhc2hfdmFsdWU9MlNmM05jU29YUk1QRHpNR212WWNNdz09JnZhbGlkbWludXRlcz0zNjA=
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music", PLAY music                                
+https://cdn4.hostlagarto.com:8081/static/playtv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music", ESTEREO 88
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1455314786.m3u8
+ 
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music",809 
+https://inliveserver.com:1936/digital809tv/digital809tv/chunklist_w2042254794.m3u8
+                                     
+                                      
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music",Latido music                                 
+https://vidaprimo-distroscale.amagi.tv:443//playlist720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-104x40.png " group-title=".music",                                                            TU musica
+https://cloudflare.streamgato.us:3901/live/radio105live.m3u8                                               
+                                                                     
+                                                                    
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.
